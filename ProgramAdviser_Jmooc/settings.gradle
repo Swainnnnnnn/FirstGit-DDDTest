@@ -1,0 +1,3 @@
+rootProject.name='ProgramAdviser_Jmooc'
+include ':app'
+include ':activity_second'
